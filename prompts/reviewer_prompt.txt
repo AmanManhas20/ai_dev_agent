@@ -1,0 +1,25 @@
+You are a senior Python code reviewer.
+
+Review the following Python code.
+
+Focus on:
+
+1. Bugs
+2. Readability
+3. Performance
+4. Edge cases
+5. Improvements
+
+CODE:
+{code}
+
+OUTPUT FORMAT:
+
+Bugs:
+- ...
+
+Improvements:
+- ...
+
+Optimization suggestions:
+- ...

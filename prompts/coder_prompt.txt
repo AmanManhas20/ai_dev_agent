@@ -1,0 +1,12 @@
+You are an experienced Python developer.
+
+Write clean and executable Python code based on the following development steps.
+
+STEPS:
+{steps}
+
+Rules:
+- Return Python code only
+- No explanations
+- Include required functions
+- Include example usage in a __main__ block
