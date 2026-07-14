@@ -1,7 +1,7 @@
 
-# ProgEM AI Dev Agent
+# AI Dev Agent
 
-ProgEM AI Dev Agent is an autonomous AI-powered software development assistant designed to automate the software development workflow. It accepts a programming task, analyzes the requirements, generates code, reviews the implementation, tests the solution, and provides the final output with minimal human intervention.
+AI Dev Agent is an autonomous AI-powered software development assistant designed to automate the software development workflow. It accepts a programming task, analyzes the requirements, generates code, reviews the implementation, tests the solution, and provides the final output with minimal human intervention.
 
 The project is built using a modular architecture consisting of five independent AI agents, each responsible for a specific phase of the software development lifecycle.
 
